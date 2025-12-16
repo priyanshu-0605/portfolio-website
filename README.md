@@ -20,19 +20,6 @@ Tech Stack
 Frontend & Core: Data & AI (Specializations)
 Getting Started: PrerequisitesNode.js (v16.0.0 or higher)npm or yarn
 
-Installation & Setup
-Clone the Repository
-Bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
-Install Dependencies
-Bash
-npm install
-Launch Development Server
-Bash
-npm run dev
-Access the site locally at http://localhost:5173
-
 Project Structure
 Plaintext
 ├── src/
